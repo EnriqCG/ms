@@ -1,7 +1,7 @@
 {
   "name": "@enriqcg/ms",
   "version": "3.0.1",
-  "description": "Tiny millisecond conversion utility",
+  "description": "Fork from Vercel's millisecond conversion utility with full support for types, error handling, and use in CJS projects",
   "repository": "vercel/ms",
   "main": "./dist/index.cjs",
   "exports": {
